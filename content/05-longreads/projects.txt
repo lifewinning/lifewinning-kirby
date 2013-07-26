@@ -1,0 +1,7 @@
+Title: Writing
+----
+Text: 
+----
+subtext: Not exactly a blog, more long-form stuff that I do sometimes.
+----
+colorclass: teal

@@ -1,0 +1,5 @@
+Title: Secret Device for Remote Locations
+----
+When: 2011
+----
+Text: Arduino powered by solar panel playing a message in Morse code on a loop, in the desert where no one can find it.

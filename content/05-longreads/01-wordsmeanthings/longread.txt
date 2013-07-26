@@ -1,0 +1,110 @@
+Title: Words Mean Things: Fort Meade Dispatch
+----
+When: July 18, 2013
+----
+Text: 
+(image:01fortmeade-larger.png class: longread)
+<small>*Fort Meade, Maryland. Aerial view via (link:http://mapbox.com text:Mapbox).*</small>
+
+"Whenever Valerie and I get into arguments she tells me 'words mean things'," Aaron said somewhere along the New Jersey Turnpike. We were driving from Brooklyn to Fort Meade to attend part of *United States vs. Bradley Manning*. I had been reading out loud from Alexa O'Brien's fastidiously thorough breakdown of the charges. "Words aren't kind of this, or sort of that. You have to use words and know what they mean when you use them," Aaron elaborated.
+
+Valerie, Aaron's girlfriend, is an attorney, so of course for her arguments hinge on *words meaning things*, on syntax as substance. And while the actions that Bradley Manning took mean millions of different things to different people, in the Uniform Court of Military Justice, those actions are understood as charges, as words, words that in a court of law can only mean one thing. 
+
+My friend Yoni, who had been down at the trial pretty regularly all summer, said we were coming to an important day because it was the beginning of the government's rebuttal to the defense, and it was one of those days when the court would be deciding just what certain words mean. The judge, Col. Denise Lind, was supposed to decide whether or not to dismiss some of the more serious charges against Manning. Specifically under consideration was the charge of "aiding the enemy", and specific application of the Computer Fraud and Abuse Act. At stake under CFAA was whether Manning "knowingly accessed" or "exceeded authorized access" when he downloaded the diplomatic cables he later gave to Wikileaks. It sounds like a minor consideration, but it's a difference between adding 2 or 10 years to the prison sentence that Manning faces. 
+
+The choice to drive down wasn't born out of any particular interest in the interpretations of CFAA. It was more a consequence of having an available driver and simply deciding with my friends Aaron and Sofia that we should go. Bradley Manning's trial had begun in June of this summer and we hadn't been down once. I'd followed haphazardly, overwhelmed by the sheer volume of facts, figures, documents, and legalese surrounding the case. I wanted to understand the case and the story better and I wanted to be another face that let Manning and the defense team know that people cared about and supported him, so I decided to go. 
+
+It was another unprecedentedly hot week in another unprecedentedly strange summer. I'd been having strange summers since 2009, the summer after the economy collapsed and I, for various reasons, began to understand what it actually meant to act "like an adult." This summer, when I couldn't sleep I'd been re-reading Joan Didion's "The White Album" over and over, circling around this passage:
+
+> The only problem was that my entire education, everything I had ever been told or had told myself, insisted that the production was never meant to be improvised: I was suppoed to have a script, and had mislaid it. I was supposed to hear cues, and no longer did. I was meant to know the plot, but all I knew was what I saw: flash pictures in variable sequence, images with no "meaning" beyond their temporary arrangement, not a movie but a cutting-room experience. In what would probably be the middle of my life I wanted still to believe in the narrative and in the narrative's intelligibility, but to know that one could change the sense with every cut was to begin to perceive the experience as rather more electrical than ethical. (Didion 12-13)
+
+I also returned and underlined, frequently, these lines from the psychiatric report Didion quotes in the essay:
+
+> It as though she feels deeply that all human effort is foredoomed to failure, a conviction which seems to push her further into a dependent, passive withdrawal. In her view she lives in a world of people moved by strange, conflicted, poorly comprehended, and, above all, devious motivations which commit them inevitably to conflict and failure...(Didion 15)
+
+Didion wrote from the vantage point of a person bearing witness to extraordinary times. I was unsure whether or not I, too, lived in extraordinary times. I was unsure when, if ever, one stops living in extraordinary times, or what constitutes truly extraordinary times at this stage in history. 
+
+I went to Fort Meade to bear witness. I went to understand the physical, human impact of this trial that I presently understood as words, which felt (despite the insistence of Valerie and the Uniform Court of Military Justice) increasingly meaningless. I went because I believe that I have a responsibility to be present for people who have taken risks that I myself have not taken and because I believed, rather romantically, that I stood at a threshold at which point I might have to take great risks myself. 
+
+There are plenty of journalists with greater reach than myself providing detailed analyses of the trial, of the language, the syntax, the precedents. What I haven't seen much of is the context, the actual place where this story has unfolded. Words mean things by virtue of the context given to them. What follows is intended as a personal account. 
+
+***
+
+From the start I was terrified of coming across as some kind of social justice tourist. I couldn't claim to be a deeply committed activist who had dedicated herself to Manning's case. Honestly, I'd only recently been able to bring myself to watch the "Collateral Murder" video. I feared being judged by attendees as a poser, here only to gawk. But instead I found a number of first-time attendees like myself, confused by the protocols, sweltering in the "Truth" t-shirts that members of the Bradley Manning Support Network handed out. 
+
+The kind of people who aren't press and who can take the time to attend a military tribunal are generally those with less fixed schedules or those who have some related professional justification for being there. There was a group of older people who'd driven down from Ithaca, New York. There was a group of interns from the Center for Constitutional Rights (we'd actually crossed paths with the interns in the Dunkin' Donuts down the road from the Fort Meade entrance; I assumed from their professional attire and offhand remarks about Israeli court procedures that they might be here for the same reasons). The people who had been there nearly every day, like Yoni and courtroom sketch artist Deb Van Poolen, were if anything welcoming to new faces, happy to see people come, to see people cared. Yoni said that they thought it was helpful for the judge to see new faces--it meant that the public was paying attention. 
+
+The drive from New York took us past miles of architecture that could be described as Late-Century Flat American--single-level, sprawling structures with designs specific enough to be ubiquitous with a certain brand, but built with materials cheap enough to recognize that it will all be obliterated in the next 5-10 years. As we drove, I started to wonder if more than half of the entire state of Maryland was composed of strip malls. Even the national park we camped at the night before in Greenbelt was situated in between two strip malls. 
+
+A lot of Fort Meade itself looked like a strip mall. It *had* a strip mall in it, with a grease-laden food court we went to during the lunch break. It was here that the surreal nature of Fort Meade, of military bases in general, really sunk in: dozens of people, some military, some not, some with kids, some not, some in uniform, some not, went about their daily lives here while this major trial took place within walking distance of their work, sometimes their homes. Not that anyone really walked anywhere outside. It was too hot, and Fort Meade has one of those sprawling suburban town layouts where sidewalks are poorly maintained and everything is just a little too far to walk. 
+
+(image:fortmeade.png class: longread)
+<small>*Fort Meade Magistrate Court. Aerial view via (link:http://mapbox.com text:Mapbox).*</small>
+
+The magistrate court, where the trial actually took place, was about 2 miles from the entrance. An array of trailers and tents took up what had once been parking. At one end, there were trailers for the government and defense teams. On the other, there were trailers for the public: one for processing people coming in (a surprisingly unthorough searching performed by bored young men), one set of restrooms, and one trailer serving as an overflow room on days when a lot of people showed up. Yoni could only remember the court overflowing on the first day of the defense, but some people preferred to watch in there because it was better air-conditioned and had natural light and you could talk while watching the feed. Members of the press watched from a separate space, presumably more like the overflow room but with internet access. I never actually saw them. 
+
+Inside, the courtroom itself felt like a parody, a set for a courtroom: low ceilings, badly lit, windowless. I was expecting the kind of reverential architecture I'd seen in the Southern District of New York courts, the courthouse I'd spent the most time in. I realize this may simply indicate my lack of experience being in courtrooms. While sketch artists captured the faces of the trial, I drew a floorplan of the courtroom. There was a color-coded system for determining access to parts of the magistrate court, and all the doors had little placards that indicated which colors were approved for which rooms. I attempted to make a drawing of the color-coded floorplan on the back of my visitor badge, but a soldier asked me to stop.
+
+(image: floorplan.JPG class: longread)
+<small>*Author sketch, courtroom flooplan.*</small>
+
+Between the lighting, carpeting, and legalese, many moments in the courtroom honestly felt more like being in math class in junior high than in a high-profile chapter of American history. At first I thought my own lack of sleep was the problem, but during the recess I realized many other people had been similarly surprised to realize that Lind had in fact ruled not to dismiss the charges at hand. She made the statement so quickly, in a slightly bored and contemptuous tone of voice, that its gravity didn't even totally sink in until discussing it further outside the courtroom, until I saw *New York Times* and *Guardian* alerts on my phone telling me about the decision as "breaking news." I'll leave it to Alexa O'Brien (whose work I admire and respect even more after attending the trial) to explain the specific implications (from an article on [The Daily Beast](http://www.thedailybeast.com/articles/2013/07/19/is-judge-deborah-lind-bradley-manning-s-biggest-enemy.html)): 
+
+>  Lind concluded that the prosecution had presented sufficient evidence for each of the criminal elements challenged as deficient by the defense. In their motion to dismiss aiding the enemy, the defense had argued that prosecutors failed to produce any evidence that Manning had "actual knowledge" that he was dealing with al Qaeda when he uploaded documents to WikiLeaks. Prosecutors do not need to prove that Manning intended to give intelligence to al Qaeda; in order to convict Manning, they are only required to prove that he had "actual knowledge" or was clearly cognizant of the fact that he was giving intelligence to al Qaeda when he disclosed information to WikiLeaks.
+
+You'd imagine such a decision, one that has huge implications for future whistleblowers, would be stated with some change in tone. But Lind's desultory delivery reflects a seemingly inescapable facet of what we call the justice system: like most things that are fundamentally important to understanding and deciding how people live their lives, it's constructed from language that has little to no relationship to a public's day-to-day life. 
+
+The gap between real life and life in a court of law was made even more clear by the topic that dominated much of the rebuttal, which was how, exactly, Manning used the command line tool wget to download diplomatic cables. Brought back to testify on the matter was Special Agent David Shaver of the Army Computer Crimes Investigating Unit (CCIU). This is an excerpt from the Freedom of Press Foundation transcripts of Shaver's testimony, interrupted by Lind: 
+
+> Q Special Agent Shaver, what is WGet?
+
+>A That is a command line tool to download files from a web server.
+
+>Q What is a web server?
+
+>A It is a computer running special software which allows it to host web pages.
+
+>Q What is a web page?
+
+>A That is a graphical interface to show to the use--
+
+>THE COURT: I know going to ask you to ask all three of those questions again. This is so fast I can't even understand it. So go ahead.
+
+I had to stifle a laugh at the fact both that the term "web page" had to be defined and that Lind couldn't seemingly comprehend what a web page is. (For the record, Shaver was not speaking quickly.) Bradley Manning's sentencing will be determined, in part, on a single person's ability to understand *how the internet works*, how *computers* work. 
+
+But I realized that it was appropriate to hyper-define these terms in a court of law, because words mean things. In programming, as in law, words also mean things, and there's no room for nuance. They are backend structures that one usually doesn't *need* to really pay much mind to, structures that are left to specialists for a reason. Law's particularities, like programming's, are not meant to be obfuscating, they're meant to keep things standard, and thus fair for everyone. But the questions of who gets to be a specialist, who gets to understand, and who gets to decide what is standard and what is fair are in a way integral to the decision by Manning to share classified documents with Wikileaks.
+
+At one point one of Manning's attorneys, David Coombs, picked up the conversational thread that had begun in Aaron's car the morning before. At hand was essentially a definition of what, exactly, Manning took (or stole, that syntax is up for debate too) from the government--databases, records in databases, or information contained therein. 
+
+>When we say information, what we really mean is the exclusive possession of that information. That is the extent to which the Government wants to extrapolate from the word database. Well, the problem with that is, words matter. And the Government on more than one time has used that refrain, words matter...Words matter and they matter the most when they are on a charge sheet.
+
+It seemed like the defense strategy was to argue that the very syntax of charges provided by the government was wrong--not whether or not Manning did what he's charged with but whether the definitions of what he's charged with are correct. At stake in the press, in public discourse, is whether Bradley Manning is a hero or a traitor.At stake in the courtroom that day weren't abstract ideals like heroism, but words, because words mean things.
+
+In the midst of the somewhat stupefying courtroom context, there were moments of strange levity. Manning's defense seemed to comprehend that they were not only performing for Lind but for the press and public. They were quippy. People laughed, sometimes. At one point one of Manning's lawyers, Captain Joshua Tooman, began his cross-examination with "We meet again, Special Agent Shaver," as though in a spy movie and not a cheap-looking courtroom. 
+
+I watched this cross-examination from the overflow room, having become exhausted by the courtroom ambience. From the overflow room, the cheap set quality of the court made more sense because the trial was, in fact, on a television, jumping to different camera angles when different people spoke. Suddenly the case was something cinematic. In the courtroom's benches, we were a congregation at a sermon. In the overflow room, we were an audience at a performance. Since there weren't soldiers watching us we could rearrange the furniture and talk. Yoni sometimes would explain things that had already happened in the trial that informed the rebuttal. Sometimes we made jokes. Unobserved, I drew the floorplan on the back of my visitor badge. 
+
+(image:badge-back.JPG class: longread)
+<small>*Author sketch, back of Fort Meade visitor badge.*</small>
+
+In both the courtroom and viewing on a screen, I was struck by the appearance of Manning himself. He was so small, so not in the spotlight. He didn't look back at the public (I was told by frequent attendees that he used to but didn't anymore). Sometimes he chewed on a pen or took notes. He did not slouch. His expression was neither positive nor negative, but simply attentive. Watching Manning I thought about the definition of the word "cipher." It has a few:
+
+> one that has no weight, worth, or influence : nonentity
+
+> a method of transforming a text in order to conceal its meaning
+
+> a message in code 
+
+In becoming a soldier, Manning had become a cipher in the first sense: one who was supposed to simply follow orders, operate within a structure, do his job. The trial itself acts as a cipher in the second sense, a way of understanding his acts of resistance to that structure. It takes a media maelstrom and transforms it into a debate over how information "aids the enemy." It takes the raw brutality of "Collateral Murder" and transforms it into questions of what constitutes "information" in a "database." It takes things that are beyond words and and seeks to find words for them, because words mean things, and the UCMJ's choice of words for Manning's actions will, in theory, lead to words for the complicated, far-flung consequences of his actions, words for the past three years, words for what may or may not be extraordinary times. 
+
+***
+
+We left early, because Aaron wanted to and Aaron was driving, and it seemed as though things would be wrapping up for the day anyway. We were exhausted. As if working our way backwards from the trial, we listened to a podcast of a 2011 *Frontline* episode about Wikileaks. We talked about other things. 
+
+I went to Fort Meade to better understand Manning's story and case; I left understanding that the trial was, in fact, *why* his case is so difficult to comprehend. Words mean things. Words don't exist in a vacuum. But Fort Meade *is* a vacuum, a cheap-looking courtroom in a Late-Century Flat American building in a Late-Century Flat American landscape. It is a sanitized space, ostensibly so in order to remain fair but in practice as a way to legitimize institutions of power that are crumbling, fast.
+
+Closing statements in the Manning trial were set to take place the following week. I wanted to go back, but I wasn't sure what for. Perhaps in the closing statements there would be something like closure, or an understanding that, in fact, there will never *be* closure on the events that have unfolded since Bradley Manning shared documents with Wikileaks. There will be a verdict pronounced in a cheap-looking courtroom, in front of some people in the room, and in front of some people watching it on large flatscreen TVs in trailers. The verdict will apply to some closely defined conventions of what is "aiding the enemy", what is "exceeding authorized use", and what is a "journalistic organization." The verdict will be translated by reporters. It will be tweeted. It will be debated endlessly until something else happens, and we refocus our attentions. 
+
+The verdict will be words, because words mean things. The verdict is a cipher, in both senses of the word. It can be both meanings of the word. Words mean things, and they can mean multiple things. They can change. They only mean things if we agree on what they mean, and in this respect words are, despite being of our own making, beyond our control.
+----
+colorclass: teal

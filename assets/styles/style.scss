@@ -1,0 +1,268 @@
+ /* sass markup!! */
+
+$green: #00A352;
+$maroon: #AB2250;
+$yellow: #DEAF43;
+$blue: #0B85A1;
+$violet: #AF88BD;
+$gray: #EDEDED;
+$darkgray: #757475;
+$teal: #289993;
+
+@mixin font{
+	font-family: 'Bitter', Georgia, serif;
+	font-weight: 100;
+}
+
+@mixin longread{
+	font-family: Georgia, serif;
+	font-size: 20px;
+	line-height: 24px;
+	text-align: justify;
+	text-justify: newspaper;
+	}
+
+@mixin padding{
+	padding: 10px;
+}
+
+@mixin border {
+	border: 2px dashed;
+	border-color: $darkgray;
+}
+
+@mixin sans {
+	font-family: 'Lato', Helvetica, sans-serif;
+	font-weight: 300;
+
+}
+
+body{
+	background: lighten($gray, 2%);
+	padding: 0;
+}
+
+::selection {
+	background: $gray; /* Safari */
+	}
+::-moz-selection {
+	background: $gray; /* Firefox */
+}
+
+
+/* here are some colors for specific categories*/
+.blue {background-color: $blue;}
+.maroon{background-color: $maroon;}
+.yellow{background-color: $yellow;}
+.green{background-color: $green;}
+.violet{background-color: $violet;}
+.darkgray{background-color: $darkgray;}
+.teal{background-color: $teal;}
+a{
+
+	color: $blue;
+	font-weight: 700;
+	&:hover { color: lighten($blue, 10%); text-decoration: none;}
+	&:visited {text-decoration: none;}
+}
+
+p, li{
+	@include sans;
+	font-size: 16px;
+	line-height: 20px;
+	
+}
+
+.wrap{
+	padding: {
+		top:5%;
+		bottom:5%;
+		left:15%;
+		right:15%;
+	}
+}
+.longread{
+p{
+	@include longread;
+	margin: {
+		top: 5%;
+		bottom: 5%;
+	}
+	}
+	blockquote{
+	@include sans; 
+	font-size: 20px;
+	line-height: 24px;
+	background-color: darken($gray, 5%);
+	padding: 5%;
+	}
+	hr{
+	margin: 20px 0;
+	border: 0;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	}
+
+	small{
+	@include sans;
+	font-size: 14px;
+	text-align:center;
+	align: middle;
+	}
+	img{
+		display: block;
+		text-align: center;
+		margin-left: auto;
+    	margin-right: auto;
+	}
+}
+
+h1, h3, h5 {@include font;}
+h2, h4 {@include sans;}
+h1{font-size: 44px;}
+.hello{
+
+	padding: {
+		left:80px;
+		right: 80px;
+		top: 40px;
+		bottom: 40px;
+	}
+    text-align: center;
+	h1{
+	font-size: 100px;
+	color: white;
+    line-height: 1;
+    @include font;
+    font-weight: 100;
+	}
+	h2
+	{
+    color: white;
+	font-size: 24px;
+    line-height: 1.25;
+     @include font;
+    }
+    a{
+
+	color: white;
+	&:hover { color: lighten($gray, 10% ); text-decoration: none;}
+	&:visited {text-decoration: none;}
+	}
+}
+.menu{
+	background-color: $darkgray;
+	a{
+	color: white;
+	font-weight: 400;
+	&:hover { color: $maroon; text-decoration: none;}
+	&:visited {text-decoration: none;}
+	}
+}
+.nav, .navbar, .nav-collapse, .collapse, .in-collapse{
+	ul, li{
+	color: white;
+	}
+	a{
+	color: white;
+	font-weight: 400;
+	&:hover { color: $maroon; text-decoration: none;}
+	&:visited {text-decoration: none;}
+	text-shadow: none;
+	}
+}
+.nav-collapse .nav > li > a, .nav-collapse .dropdown-menu a {
+
+    color: white;   
+    &:hover { color: $darkgray; text-decoration: none; background-color: $gray;}
+}
+
+.loading{
+	display: block;
+	background-color: darken($gray, 5%);
+	padding: 1%;
+	text-align: center;
+	
+
+
+
+}
+
+.submenu{
+	width: 100%;
+	padding: 5px;
+	text-align: center;
+
+}
+
+.subitem{
+	
+	display:none;
+	
+}
+.isotope-item {
+	background-color: $gray;
+    z-index: 2;
+    @include border;
+    text-align:center;
+    line-height: 12px;
+}
+.isotope-hidden.isotope-item {
+    pointer-events: none;
+    z-index: 1;
+}
+.isotope, .isotope .isotope-item{
+	@include padding;
+	margin: 5px;
+	
+	a{
+
+	color: $darkgray;
+	&:hover { color: lighten ($darkgray, 30% ); text-decoration: none;}
+	&:visited {text-decoration: none;}
+	}
+
+	  /* transformation durations */
+ 
+    -webkit-transition-duration: 0.8s;
+    -moz-transition-duration: 0.8s;
+    transition-duration: 0.8s;
+    -webkit-transition-property: height, width;
+    -moz-transition-property: height, width;
+    transition-property: height, width;
+	
+	.isotope-item {
+    -webkit-transition-property: -webkit-transform, opacity;
+    -moz-transition-property: -moz-transform, opacity;
+    transition-property: transform, opacity;
+}
+
+}
+
+
+.gallery{
+	text-align: center;
+	float: right;
+	align: top;
+img {
+	max-height: 90%;
+	}
+
+padding: {
+		top: .5%;
+		bottom: .5%;
+	}
+
+}
+
+.project{
+	align: absmiddle;
+	padding: {
+		top: .5%;
+		bottom: .5%;
+	}
+	margin: {
+		top: 5%;
+		bottom: 5%;
+	}
+}

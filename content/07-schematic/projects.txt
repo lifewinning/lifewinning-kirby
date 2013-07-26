@@ -1,0 +1,7 @@
+Title: Schematic Quarterly
+----
+Text: Schematic Quarterly is a publication I started with Kimmy Fung in 2010. It's been on hiatus for a while, but I would love to work on it again. Get in touch if you have ideas for projects for it. More info can be found at (link:http://schematicquarterly.info text:schematicquarterly.info).
+----
+subtext: is a zine I work on sometimes.
+----
+colorclass: violet

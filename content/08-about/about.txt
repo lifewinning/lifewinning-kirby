@@ -1,0 +1,18 @@
+Title: About
+----
+Text:  
+#Hello!
+
+This is the part of making a portfolio website that is my least favorite. I never know what to say. 
+
+My background is mostly in stories. Right now I do a lot of research-intensive projects that later become writing, maps, and data visualizations.
+
+I live and work on a small island off the coast of America. I like to work with people working on interesting things, especially things where I get to learn new things and meet new people. Please get in touch!
+
+And in case you missed it on the bottom of the page:
+<a href="mailto: lifewinning@gmail.com"><i class="icon-envelope-alt"> </i> lifewinning@gmail.com
+<a href="http://github.com/lifewinning/"><i class="icon-github"></i> Github</a>
+<a href="http://twitter.com/lifewinning/"><i class="icon-twitter"></i> @lifewinning </a>
+
+----
+colorclass: blue

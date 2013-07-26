@@ -1,0 +1,7 @@
+Title: Jokes
+----
+Text: 
+----
+subtext: one-liner things that don't really fit anywhere clearly.
+----
+colorclass: darkgray

@@ -1,0 +1,7 @@
+Title: Measuring the Impact of a Fare Hike
+----
+When: 2012
+----
+Text: How do you understand the impact of a fare hike on a city, on a neighborhood, on a community? Using MTA ridership data and American Community Survey data, this map looks at the different 
+
+View the map online (link:http://nofarehikes.net/map text: here), and other things on (link:http://nofarehikes.net text:nofarehikes.net). This is an ongoing campaign that involves lots of wonderful people, I just made this map and did some stuff for the website. 

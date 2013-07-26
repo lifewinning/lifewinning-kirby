@@ -1,0 +1,5 @@
+Title: Error
+----
+Text: Oh no, something has gone very wrong! Maybe try going someplace else.
+----
+class: dark gray

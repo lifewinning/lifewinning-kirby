@@ -1,0 +1,7 @@
+Title: Research-Heavy Stuff
+----
+Text: 
+----
+subtext: I do some hard to explain projects, here are some of them.
+----
+colorclass: maroon

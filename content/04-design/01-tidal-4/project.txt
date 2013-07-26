@@ -1,0 +1,7 @@
+Title: Tidal 4
+----
+When: 2013
+----
+Text: In collaboration with (link:http://zakgreene.com text:Zak Greene). 
+
+_Tidal_ is a magazine born out of Occupy Wall Street that examines social movements through the lens of critical theory. You can read it (link:http://tidalmag.org text:here).

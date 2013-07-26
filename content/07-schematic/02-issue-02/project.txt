@@ -1,0 +1,13 @@
+Title: Issue 2
+----
+When: 2010
+----
+Text: 
+Theme: Cosmology
+
+Contributors:
+(link: text:Margaret Durow)
+(link: text:Beki Basch)
+(link: text:Rebecca Cooling-Mallard)
+(link: text:Lauren Brick)
+(link: text:Alicia Puglionesi)
