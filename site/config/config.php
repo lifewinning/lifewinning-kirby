@@ -71,7 +71,7 @@ RewriteBase /subfolder
  
 */
 
-c::set('subfolder', false);
+c::set('subfolder', /lifewinning.com);
 
 
 /* 

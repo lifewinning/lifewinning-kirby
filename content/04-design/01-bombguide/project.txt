@@ -1,0 +1,7 @@
+Title: Bomb Downtown Guide
+----
+When: 2013
+----
+Text: This is a map of downtown Manhattan galleries maintained by Bomb Magazine. Pink markers are galleries they really, really want you to check out. The others are good too though. 
+
+Built using mapbox.js (0.6.4, which is old, but guys you still don't have easing in 1.0) and a Google Docs plugin also by Mapbox. Repo (link:https://github.com/lifewinning/bombmap/tree/gh-pages text:here). 

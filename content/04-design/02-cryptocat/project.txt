@@ -1,0 +1,9 @@
+Title: Cryptocat Mini-Guide Zine
+----
+When: 2013
+----
+Text: With the infinitely useful input of (link:http://nadim.cc text:Nadim Kobeissi). 
+
+(link:http://crypto.cat text:Cryptocat) is an encrypted chat service that aims to make secure online communications easy to use and understand. And adorable. With cats! 
+
+This is a quarter-sheet sized zine that explains why you might want to use Cryptocat, how it works, and how the interface works. It's available as a single 2-sided (file:cryptocatguide.pdf text:PDF) document so you can print and make your own copy or lots of copies! 

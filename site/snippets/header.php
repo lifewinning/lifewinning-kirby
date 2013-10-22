@@ -20,7 +20,7 @@
 <!-- borrowing responsive text library from Groundwork -->
   <?php echo js('assets/styles/groundworkjs/groundwork.all.js') ?>
    <?php echo js('assets/styles/groundworkjs/jquery-responsiveText.js') ?>
-   
+  
 
 <!-- boostrap -->
   <?php echo css('assets/styles/bootstrap/css/bootstrap.min.css') ?>
@@ -41,7 +41,7 @@
 
 <!-- isotope -->
   <?php echo js('assets/styles/isotope-site/jquery.isotope.min.js') ?>
-
+  <?php echo js ('assets/styles/imagesloaded.pkgd.min.js')?>
 
 </head>
 
